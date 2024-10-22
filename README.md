@@ -1,7 +1,3 @@
-Here’s a personalized `README.md` template for your GitHub profile that reflects your background, skills, and current focus. 
-
----
-
 ## Hi there 👋 I'm Florence Olukiran!
 
 <!-- 
