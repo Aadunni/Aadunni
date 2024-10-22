@@ -46,7 +46,7 @@ I’m a **Data Scientist and Researcher** with over 9 years of experience in **d
 
 ### 📫 How to Reach Me  
 - 📧 **Email:** olukiran.oyenike@gmail.com  
-- 🌐 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/your-profile)  
+- 🌐 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/oyenike-olukiran/)  
 - 📝 **Website/Blog:** Coming Soon!
 
 ---
