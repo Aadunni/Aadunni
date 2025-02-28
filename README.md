@@ -38,7 +38,7 @@ I’m a **Data Scientist and Researcher** with over 9 years of experience in **d
 ---
 
 ### 💬 Ask Me About  
-- 🧑‍🔬 My **CKD prediction model** research  
+- 🧑‍🔬 My **prediction model** research  
 - 🎓 Career transition tips for **data scientists** and **researchers**  
 - 🖥 My experience with **Python and data visualization tools**
 
